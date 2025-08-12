@@ -40,7 +40,7 @@ Pandas 1.4.4
 ```
 ## Installation
 ```
-pip install pyod     # for anomaly detection
+pip install pyod     # for anomaly detection (For details: https://pyod.readthedocs.io/en/latest/install.html)
 ```
 
 ## Example of Model usage
