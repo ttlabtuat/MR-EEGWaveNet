@@ -38,6 +38,8 @@ Scikit-learn 1.0.2
 MNE 1.8.0
 Pandas 1.4.4
 ```
+## Installation
+pip install pyod     # for anomaly detection
 
 
 ## Example of Model usage
