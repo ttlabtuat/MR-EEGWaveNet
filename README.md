@@ -44,7 +44,7 @@ pip install pyod     # for anomaly detection (For details: https://pyod.readthed
 ```
 
 ## Example of Model usage
-```
+```python
 import torch
 import numpy as np
 from mreegwavenet import Model  # Make sure the class above is saved in mreegwavenet.py
