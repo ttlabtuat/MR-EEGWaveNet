@@ -13,19 +13,17 @@ Multiresolutional EEGWaveNet (MR-EEGWaveNet) is a novel end-to-end deep learning
 
 <!-- This section explains the model architecture -->
 ## A) Convolution module 
-<p align="center"> 
-<img width="800" height="560" alt="conv_module" src="https://github.com/user-attachments/assets/d9a32bbc-8905-4d5a-bb8f-9617c254e9c4" />
-</p>
+<img src="images/conv_module_github.jpg" alt="conv_module" width="800" height="560"/>
       
 ## MR-EEGWaveNet architecture (Example)
 <p align="center"> 
-<img width="1000" height="700" alt="mr-eegwavenet-arch-image" src="https://github.com/user-attachments/assets/01c94c8e-58f7-4f19-a3cf-2fd47e100ec0" />
+<img src="images/mr-eegwavenet-arch-image-github.jpg"  width="1000" height="700" alt="mr-eegwavenet-arch-image"/>
 </p>
 
 
 ## Evaluation: Leave-One-Subject-Out (LOSO) cross-validation scheme
 <p align="center"> 
-<img width="500" height="500" alt="LOSO" src="https://github.com/user-attachments/assets/023b3436-f601-4c4f-a823-fb58eb05e6a5" />
+<img src="images/LOSO-gihub.jpg"  width="500" height="500" alt="LOSO"/>
 </p>
 
 ## Versions used in the Experiment
